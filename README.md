@@ -1,5 +1,5 @@
 # onlineShop
-## ✅Development Platform and Language
+## ✅Development Environment
 1. OS: win 10
 2. Development Tool: IntelliJ IDEA 2019.3.3
 3. Development Language: JavaEE
